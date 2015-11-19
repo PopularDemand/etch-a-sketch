@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	float: left;
+	background-color: white;
+	margin: 0;
+}
+
+section {
+	width: 960px;
+}
+
+.filled {
+	background-color: black;
+}
+
+button {
+	width: 960px;
+	background-color: blue;
+	color: white;
+	font-weight: bold;
+}
